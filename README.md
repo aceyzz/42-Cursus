@@ -6,6 +6,8 @@
 
 Mon parcours au Cursus commun de l'école 42 Lausanne.
 
+<img title="holy_graph" alt="holy_graph" src="./utils/holy_graph.png" width="100%">
+
 ## Projects
 
 ### Cercle 0
@@ -84,5 +86,3 @@ Mon parcours au Cursus commun de l'école 42 Lausanne.
 | ~~Exam Rank 06~~            |      |
 
 <br>
-
-
