@@ -8,61 +8,98 @@ Mon parcours au Cursus commun de l'école 42 Lausanne.
 
 ## Projects
 
+<style>
+	table {
+		width: 40%;
+		border: 
+	}
+
+	td {
+		white-space: nowrap;
+	}
+</style>
+
 ### Cercle 0
-- [Libft](./0-libft/)
+| PROJECT				| GRADE				|
+|:--------------------- | -----------------:|
+| [Libft](./0-libft/)	|	**125/100**		|
+|
+
 
 <br>
 
 ---
 
 ### Cercle 1
-- [Get_next_line](./1-get_next_line/)
-- [Born2beroot](./1-born2beroot/)
-- [Ft_printf](./1-ft_printf/)
+| PROJECT								| GRADE								|
+|:------------------------------------- | ---------------------------------:|
+| [Get_next_line](./1-get_next_line/) 	|	**125/100**						|
+| [Born2beroot](./1-born2beroot/) 		|	**110/100**						|
+| [Ft_printf](./1-ft_printf/) 			|	**100/100**						|
+| 
+
 
 <br>
 
 ---
 
 ### Cercle 2
-- [Push_swap](./2-push_swap/)
-- [Minitalk](./2-minitalk/) (waiting for evaluation)
-- [So_long](./2-so_long/) (in progress)
-- [Exam Rank 02](https://github.com/aceyzz/42-Exam/tree/master/exam_rank_02)
+| PROJECT								| GRADE								|
+|:------------------------------------- | ---------------------------------:|
+| [Push_swap](./2-push_swap/)			| **100/100**						|
+| [Minitalk](./2-minitalk/) 			| 						|
+| [So_long](./2-so_long/) 				| 						|
+| [Exam Rank 02](https://github.com/aceyzz/42-Exam/tree/master/exam_rank_02) | **100/100** |
 
 <br>
 
 ---
 
-### Cercle 3
-- ~~Minishell~~
-- ~~Philosophers~~
-- ~~Exam Rank 03~~
+### Cercle 3 *(locked)*
+| PROJECT								| GRADE								|
+|:------------------------------------- | ---------------------------------:|
+| ~~Minishell~~					| 						|
+| ~~Philosophers~~		| 						|
+| ~~Exam Rank 03~~ |  |
+|
 
 <br>
 
 ---
 
-### Cercle 4
-- ~~Cub3d~~
-- ~~NetPractice~~
-- ~~Modules CPP (00 to 04)~~
-- ~~Exam Rank 04~~
+### Cercle 4 *(locked)*
+| PROJECT								| GRADE								|
+|:------------------------------------- | ---------------------------------:|
+| ~~Cub3d~~					| 						|
+| ~~NetPractice~~		| 						|
+| ~~Modules CPP (00 to 04)~~	| 		|
+| ~~Exam Rank 04~~ |  |
+|
 
 <br>
 
 ---
 
-### Cercle 5
-- ~~Webserv / Ft_irc~~
-- ~~Inception~~
-- ~~Modules CPP (05 to 09)~~
-- ~~Exam Rank 05~~
+### Cercle 5 *(locked)*
+| PROJECT								| GRADE								|
+|:------------------------------------- | ---------------------------------:|
+| ~~Webserv / Ft_irc~~	| 						|
+| ~~Inception~~			| 						|
+| ~~Modules CPP (05 to 09)~~	| 		|
+| ~~Exam Rank 05~~ |  |
+|
 
 <br>
 
 ---
 
-### Cercle 6
-- ~~Ft_transcendance~~
-- ~~Exam Rank 06~~
+### Cercle 6 *(locked)*
+| PROJECT                     | GRADE |
+|:----------------------------|------:|
+| ~~Ft_transcendance~~        |      |
+| ~~Exam Rank 06~~            |      |
+|
+
+<br>
+
+
