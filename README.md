@@ -8,17 +8,6 @@ Mon parcours au Cursus commun de l'école 42 Lausanne.
 
 ## Projects
 
-<style>
-	table {
-		width: 40%;
-		border: 
-	}
-
-	td {
-		white-space: nowrap;
-	}
-</style>
-
 ### Cercle 0
 | PROJECT				| GRADE				|
 |:--------------------- | -----------------:|
