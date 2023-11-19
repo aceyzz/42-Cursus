@@ -1,20 +1,12 @@
 <img src="utils/PUSH_SWAP.png" alt="logo_push-swap" style="width: 100%">
 
-<br>
-<br>
-<br>
-
-
 >Not the best, but it works
-
-<br>
 
 ## Index
 1. [Objectif](#objectif)
 2. [Sujet](#sujet)
 3. [Fonctionnement](#fonctionnement)
 4. [Fonctions utilisées](#fonctions-utilisés)
-	
 	- [Parse](#parse)
 	- [Erreurs](#errors)
 	- [Checks](#checks)

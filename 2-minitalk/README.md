@@ -163,7 +163,7 @@ Déclarations des librairies (standards et personnelle) nécessaires des fonctio
 ---
 
 ### ```ft_printf()``` 
-Afin d'afficher le message envoyé par le client. Codée lors du cercle précédent. (Lien [ici](https://github.com/aceyzz/42-ft_printf))
+Afin d'afficher le message envoyé par le client. Codée lors du cercle précédent. (Lien [ici](https://github.com/aceyzz/42-Cursus/tree/main/1-ft_printf))
 
 <br>
 
