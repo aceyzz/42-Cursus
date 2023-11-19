@@ -23,7 +23,6 @@ Mon parcours au Cursus commun de l'école 42 Lausanne.
 | PROJECT				| GRADE				|
 |:--------------------- | -----------------:|
 | [Libft](./0-libft/)	|	**125/100**		|
-|
 
 
 <br>
@@ -36,7 +35,6 @@ Mon parcours au Cursus commun de l'école 42 Lausanne.
 | [Get_next_line](./1-get_next_line/) 	|	**125/100**						|
 | [Born2beroot](./1-born2beroot/) 		|	**110/100**						|
 | [Ft_printf](./1-ft_printf/) 			|	**100/100**						|
-| 
 
 
 <br>
@@ -61,7 +59,6 @@ Mon parcours au Cursus commun de l'école 42 Lausanne.
 | ~~Minishell~~					| 						|
 | ~~Philosophers~~		| 						|
 | ~~Exam Rank 03~~ |  |
-|
 
 <br>
 
@@ -74,7 +71,6 @@ Mon parcours au Cursus commun de l'école 42 Lausanne.
 | ~~NetPractice~~		| 						|
 | ~~Modules CPP (00 to 04)~~	| 		|
 | ~~Exam Rank 04~~ |  |
-|
 
 <br>
 
@@ -87,7 +83,6 @@ Mon parcours au Cursus commun de l'école 42 Lausanne.
 | ~~Inception~~			| 						|
 | ~~Modules CPP (05 to 09)~~	| 		|
 | ~~Exam Rank 05~~ |  |
-|
 
 <br>
 
@@ -98,7 +93,6 @@ Mon parcours au Cursus commun de l'école 42 Lausanne.
 |:----------------------------|------:|
 | ~~Ft_transcendance~~        |      |
 | ~~Exam Rank 06~~            |      |
-|
 
 <br>
 
