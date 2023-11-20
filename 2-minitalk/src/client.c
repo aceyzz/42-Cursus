@@ -6,11 +6,11 @@
 /*   By: cedmulle <cedmulle@student.42lausanne.c    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/11/18 15:14:03 by cedmulle          #+#    #+#             */
-/*   Updated: 2023/11/19 10:42:01 by cedmulle         ###   ########.fr       */
+/*   Updated: 2023/11/20 14:26:30 by cedmulle         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../../inc/minitalk.h"
+#include "../inc/minitalk.h"
 
 void	confirmation_handler(int sig)
 {

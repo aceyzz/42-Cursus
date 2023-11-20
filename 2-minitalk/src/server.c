@@ -6,11 +6,11 @@
 /*   By: cedmulle <cedmulle@student.42lausanne.c    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/11/18 15:16:54 by cedmulle          #+#    #+#             */
-/*   Updated: 2023/11/19 10:15:08 by cedmulle         ###   ########.fr       */
+/*   Updated: 2023/11/20 14:26:27 by cedmulle         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../../inc/minitalk.h"
+#include "../inc/minitalk.h"
 
 void	bit_received(int sig, siginfo_t *info, void *context)
 {
