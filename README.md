@@ -36,7 +36,7 @@ Mon parcours au Cursus commun de l'école 42 Lausanne.
 | PROJECT								| GRADE								|
 |:------------------------------------- | ---------------------------------:|
 | [Push_swap](./2-push_swap/)			| **100/100**						|
-| [Minitalk](./2-minitalk/) 			| 						|
+| [Minitalk](./2-minitalk/) 			| **125/100						|
 | [So_long](./2-so_long/) 				| 						|
 | [Exam Rank 02](https://github.com/aceyzz/42-Exam/tree/master/exam_rank_02) | **100/100** |
 
