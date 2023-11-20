@@ -60,7 +60,11 @@ Mon parcours au Cursus commun de l'école 42 Lausanne.
 |:------------------------------------- | ---------------------------------:|
 | ~~Cub3d~~					| 						|
 | ~~NetPractice~~		| 						|
-| ~~Modules CPP (00 to 04)~~	| 		|
+| ~~Modules CPP 00~~	| 		|
+| ~~Modules CPP 01~~	| 		|
+| ~~Modules CPP 02~~	| 		|
+| ~~Modules CPP 03~~	| 		|
+| ~~Modules CPP 04~~	| 		|
 | ~~Exam Rank 04~~ |  |
 
 <br>
@@ -72,7 +76,11 @@ Mon parcours au Cursus commun de l'école 42 Lausanne.
 |:------------------------------------- | ---------------------------------:|
 | ~~Webserv / Ft_irc~~	| 						|
 | ~~Inception~~			| 						|
-| ~~Modules CPP (05 to 09)~~	| 		|
+| ~~Modules CPP 05~~	| 		|
+| ~~Modules CPP 06~~	| 		|
+| ~~Modules CPP 07~~	| 		|
+| ~~Modules CPP 08~~	| 		|
+| ~~Modules CPP 09~~	| 		|
 | ~~Exam Rank 05~~ |  |
 
 <br>
