@@ -13,7 +13,7 @@ Mon parcours au Cursus commun de l'école 42 Lausanne.
 ### Cercle 0
 | PROJECT				| GRADE				|
 |:--------------------- | -----------------:|
-| [Libft](./0-libft/)	|	**125/100**		|
+| [Libft](https://github.com/aceyzz/Libft)	|	**125/100**		|
 
 
 <br>
@@ -23,9 +23,9 @@ Mon parcours au Cursus commun de l'école 42 Lausanne.
 ### Cercle 1
 | PROJECT								| GRADE								|
 |:------------------------------------- | ---------------------------------:|
-| [Get_next_line](./1-get_next_line/) 	|	**125/100**						|
-| [Born2beroot](./1-born2beroot/) 		|	**110/100**						|
-| [Ft_printf](./1-ft_printf/) 			|	**100/100**						|
+| [Get_next_line](https://github.com/aceyzz/Get_next_line) 	|	**125/100**						|
+| [Born2beroot](https://github.com/aceyzz/Born2beRoot) 		|	**110/100**						|
+| [Ft_printf](https://github.com/aceyzz/Ft_printf) 			|	**100/100**						|
 
 
 <br>
@@ -35,9 +35,9 @@ Mon parcours au Cursus commun de l'école 42 Lausanne.
 ### Cercle 2
 | PROJECT								| GRADE								|
 |:------------------------------------- | ---------------------------------:|
-| [Push_swap](./2-push_swap/)			| **100/100**						|
-| [Minitalk](./2-minitalk/) 			| **125/100**						|
-| [So_long](./2-so_long/) 				| 						|
+| [Push_swap](https://github.com/aceyzz/Push_swap)		| **100/100**						|
+| [Minitalk](https://github.com/aceyzz/Minitalk)			| **125/100**						|
+| So_long				| 						|
 | [Exam Rank 02](https://github.com/aceyzz/42-Exam/tree/master/exam_rank_02) | **100/100** |
 
 <br>
