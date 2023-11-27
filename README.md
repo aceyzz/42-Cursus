@@ -37,7 +37,7 @@ Mon parcours au Cursus commun de l'école 42 Lausanne.
 |:------------------------------------- | ---------------------------------:|
 | [Push_swap](https://github.com/aceyzz/Push_swap)		| **100/100**						|
 | [Minitalk](https://github.com/aceyzz/Minitalk)			| **125/100**						|
-| [So_long](https://github.com/aceyzz/So_long)			| 						|
+| [So_long](https://github.com/aceyzz/So_long)			| En cours d'évaluation						|
 | [Exam Rank 02](https://github.com/aceyzz/42-Exam/tree/master/exam_rank_02) | **100/100** |
 
 <br>
