@@ -48,7 +48,7 @@ Mon parcours au Cursus commun de l'école 42 Lausanne.
 | PROJECT								| GRADE								|
 |:------------------------------------- | ---------------------------------:|
 | Minishell					| 						|
-| Philosophers		| 						|
+| Philosophers		| 		In progress			|
 | Exam Rank 03 |  |
 
 <br>
