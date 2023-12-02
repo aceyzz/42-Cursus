@@ -24,7 +24,7 @@ Mon parcours au Cursus commun de l'école 42 Lausanne.
 | PROJECT								| GRADE								|
 |:------------------------------------- | ---------------------------------:|
 | [Get_next_line](https://github.com/aceyzz/Get_next_line) 	|	**125/100**						|
-| [Born2beroot](https://github.com/aceyzz/Born2beRoot) 		|	**110/100**						|
+| [Born2beroot](https://github.com/aceyzz/Born2beRoot) 		|	**125/100**						|
 | [Ft_printf](https://github.com/aceyzz/Ft_printf) 			|	**100/100**						|
 
 
