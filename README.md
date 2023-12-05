@@ -94,3 +94,5 @@ Mon parcours au Cursus commun de l'école 42 Lausanne.
 | ~~Exam Rank 06~~            |      |
 
 <br>
+
+
