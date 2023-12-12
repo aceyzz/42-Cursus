@@ -48,8 +48,8 @@ Mon parcours au Cursus commun de l'école 42 Lausanne.
 | PROJECT								| GRADE								|
 |:------------------------------------- | ---------------------------------:|
 | Minishell					| 	In progress					|
-| Philosophers		| 		In progress			|
-| Exam Rank 03 |  |
+| [Philosophers](https://github.com/aceyzz/Philosophers)		| 		**100/100**			|
+| Exam Rank 03 | **100/100** |
 
 <br>
 
