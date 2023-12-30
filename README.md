@@ -43,8 +43,8 @@
 
 ### Cercle 3
 
-- [Minishell](https://github.com/aceyzz/Minishell) (In progress...)
 - [Philosophers](https://github.com/aceyzz/Philosophers)
+- [Minishell](https://github.com/aceyzz/Minishell) (In progress...)
 - [Exam Rank 03](https://github.com/aceyzz/42-Exam/tree/master/exam_rank_03)
 
 <br>
