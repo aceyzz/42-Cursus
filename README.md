@@ -13,7 +13,7 @@
 
 ### Cercle 0
 
-- [Libft](https://github.com/aceyzz/Libft)
+- [Libft](https://github.com/aceyzz/Libft) ✅
 
 <br>
 
@@ -21,9 +21,9 @@
 
 ### Cercle 1
 
-- [Get_next_line](https://github.com/aceyzz/Get_next_line)
-- [Born2beroot](https://github.com/aceyzz/Born2beRoot)
-- [Ft_printf](https://github.com/aceyzz/Ft_printf)
+- [Get_next_line](https://github.com/aceyzz/Get_next_line) ✅
+- [Born2beroot](https://github.com/aceyzz/Born2beRoot) ✅
+- [Ft_printf](https://github.com/aceyzz/Ft_printf) ✅
 
 
 <br>
@@ -32,10 +32,10 @@
 
 ### Cercle 2
 
-- [Push_swap](https://github.com/aceyzz/Push_swap)
-- [Minitalk](https://github.com/aceyzz/Minitalk)
-- [So_long](https://github.com/aceyzz/So_long)
-- [Exam Rank 02](https://github.com/aceyzz/42-Exam/tree/master/exam_rank_02)
+- [Push_swap](https://github.com/aceyzz/Push_swap) ✅
+- [Minitalk](https://github.com/aceyzz/Minitalk) ✅
+- [So_long](https://github.com/aceyzz/So_long) ✅
+- [Exam Rank 02](https://github.com/aceyzz/42-Exam/tree/master/exam_rank_02) ✅
 
 <br>
 
@@ -43,9 +43,9 @@
 
 ### Cercle 3
 
-- [Philosophers](https://github.com/aceyzz/Philosophers)
-- [Minishell](https://github.com/aceyzz/Minishell) (In progress...)
-- [Exam Rank 03](https://github.com/aceyzz/42-Exam/tree/master/exam_rank_03)
+- [Philosophers](https://github.com/aceyzz/Philosophers) ✅
+- [Minishell](https://github.com/aceyzz/Minishell) (In progress...) ⌛
+- [Exam Rank 03](https://github.com/aceyzz/42-Exam/tree/master/exam_rank_03) ✅
 
 <br>
 
