@@ -53,7 +53,7 @@
 
 ### Cercle 4 *(locked)*
 
-- ~~Cub3d~~
+- [~~Cub3d~~](https://github.com/aceyzz/cub3d) (In progress...) ⌛
 - ~~NetPractice~~
 - ~~Modules CPP 00~~
 - ~~Modules CPP 01~~
