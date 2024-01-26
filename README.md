@@ -51,16 +51,16 @@
 
 ---
 
-### Cercle 4 *(locked)*
+### Cercle 4
 
-- [~~Cub3d~~](https://github.com/aceyzz/cub3d) (In progress...) ⌛
-- ~~NetPractice~~
-- ~~Modules CPP 00~~
-- ~~Modules CPP 01~~
-- ~~Modules CPP 02~~
-- ~~Modules CPP 03~~
-- ~~Modules CPP 04~~
-- ~~Exam Rank 04~~
+- [Cub3d](https://github.com/aceyzz/cub3d) (In progress...) ⌛
+- NetPractice
+- Modules CPP 00
+- Modules CPP 01
+- Modules CPP 02
+- Modules CPP 03
+- Modules CPP 04
+- Exam Rank 04
 
 <br>
 
