@@ -44,7 +44,7 @@
 ### Cercle 3
 
 - [Philosophers](https://github.com/aceyzz/Philosophers) ✅
-- [Minishell](https://github.com/aceyzz/Minishell) (Evaluation soon...) ⌛
+- [Minishell](https://github.com/aceyzz/Minishell) ✅
 - [Exam Rank 03](https://github.com/aceyzz/42-Exam/tree/master/exam_rank_03) ✅
 
 <br>
