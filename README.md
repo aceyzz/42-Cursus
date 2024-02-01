@@ -53,14 +53,14 @@
 
 ### Cercle 4
 
-- [Cub3d](https://github.com/aceyzz/cub3d) (In progress...) ⌛
-- NetPractice
+- [Cub3d](https://github.com/aceyzz/cub3d) ✅
+- NetPractice (In progress...) ⌛
 - Modules CPP 00
 - Modules CPP 01
 - Modules CPP 02
 - Modules CPP 03
 - Modules CPP 04
-- Exam Rank 04
+- [Exam Rank 04](https://github.com/aceyzz/42-Exam/tree/master/exam_rank_04) ✅
 
 <br>
 
