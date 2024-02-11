@@ -54,8 +54,8 @@
 ### Cercle 4
 
 - [Cub3d](https://github.com/aceyzz/cub3d) ✅
-- NetPractice (In progress...) ⌛
-- Modules CPP 00
+- [NetPractice]() ✅
+- Modules CPP 00 (In progress...) ⌛
 - Modules CPP 01
 - Modules CPP 02
 - Modules CPP 03
