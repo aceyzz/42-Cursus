@@ -5,6 +5,8 @@
 <a href="https://github.com/aceyzz/Libft"><img src="utils/1.png" alt="libft" style="width: 80%;">
 <img src="utils/125.png" alt="grade" style="width: 19%;"></a>
 
+---
+
 <a href="https://github.com/aceyzz/Get_next_line"><img src="utils/2.png" alt="gnl" style="width: 80%;">
 <img src="utils/125.png" alt="grade" style="width: 19%;"></a>
 
@@ -13,6 +15,8 @@
 
 <a href="https://github.com/aceyzz/Born2beRoot"><img src="utils/4.png" alt="b2r" style="width: 80%;">
 <img src="utils/125.png" alt="grade" style="width: 19%;"></a>
+
+---
 
 <a href="https://github.com/aceyzz/Push_swap"><img src="utils/5.png" alt="pushswap" style="width: 80%;">
 <img src="utils/100.png" alt="grade" style="width: 19%;"></a>
@@ -23,11 +27,15 @@
 <a href="https://github.com/aceyzz/So_long"><img src="utils/7.png" alt="so_long" style="width: 80%;">
 <img src="utils/125.png" alt="grade" style="width: 19%;"></a>
 
+---
+
 <a href="https://github.com/aceyzz/Philosophers"><img src="utils/8.png" alt="philo" style="width: 80%;">
 <img src="utils/100.png" alt="grade" style="width: 19%;"></a>
 
 <a href="https://github.com/aceyzz/Minishell"><img src="utils/9.png" alt="minishell" style="width: 80%;">
 <img src="utils/100.png" alt="grade" style="width: 19%;"></a>
+
+---
 
 <a href="https://github.com/aceyzz/cub3d"><img src="utils/10.png" alt="cube" style="width: 80%;">
 <img src="utils/125.png" alt="grade" style="width: 19%;"></a>
@@ -36,6 +44,8 @@
 <img src="utils/100.png" alt="grade" style="width: 19%;"></a>
 
 <a href="https://github.com/aceyzz/CPP00-CPP04"><img src="utils/12.png" alt="cpp1" style="width: 80%;"></a>
+
+---
 
 <br>
 
