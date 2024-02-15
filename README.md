@@ -43,8 +43,8 @@
 <a href="https://github.com/aceyzz/NetPractice"><img src="utils/11.png" alt="net" style="width: 80%;">
 <img src="utils/100.png" alt="grade" style="width: 19%;"></a>
 
-<a href="https://github.com/aceyzz/CPP00-CPP04"><img src="utils/12.png" alt="cpp1" style="width: 80%;"></a>
-
+<a href="https://github.com/aceyzz/CPP00-CPP04"><img src="utils/12.png" alt="cpp1" style="width: 80%;">
+<img src="utils/dots.png" alt="grade" style="width: 19%;"></a>
 ---
 
 <br>
