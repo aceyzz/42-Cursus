@@ -44,7 +44,7 @@
 <img src="utils/100.png" alt="grade" style="width: 19%;"></a>
 
 <a href="https://github.com/aceyzz/CPP00-CPP04"><img src="utils/12.png" alt="cpp1" style="width: 80%;">
-<img src="utils/dots.png" alt="grade" style="width: 18%;"></a>
+<img src="utils/100.png" alt="grade" style="width: 18%;"></a>
 ---
 
 <br>
