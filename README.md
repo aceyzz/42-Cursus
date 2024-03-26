@@ -71,6 +71,8 @@
 <a href="https://github.com/aceyzz/42-Exam/tree/master/exam_rank_05"><img src="utils/exam05.png" alt="ex04" style="width: 80%;">
 <img src="utils/100.png" alt="grade" style="width: 19%;"></a>
 
+<br>
+
 ## Graph
 <img src="utils/holy_graph.png" alt="holy_graph" style="width: 100%">
 
