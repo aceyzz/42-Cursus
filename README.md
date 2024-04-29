@@ -40,9 +40,6 @@
 <a href="https://github.com/aceyzz/cub3d"><img src="utils/10.png" alt="cube" style="width: 80%;">
 <img src="utils/125.png" alt="grade" style="width: 19%;"></a>
 
-<a href="https://github.com/aceyzz/MiniRT"><img src="utils/99.png" alt="cube" style="width: 80%;">
-<img src="utils/dots.png" alt="grade" style="width: 19%;"></a>
-
 <a href="https://github.com/aceyzz/NetPractice"><img src="utils/11.png" alt="net" style="width: 80%;">
 <img src="utils/100.png" alt="grade" style="width: 19%;"></a>
 
