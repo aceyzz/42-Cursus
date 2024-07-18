@@ -54,7 +54,7 @@
 <a href="https://github.com/aceyzz/Inception"><img src="utils/inception.png" alt="inception" style="width: 80%;">
 <img src="utils/100.png" alt="grade" style="width: 19%;"></a>
 
-<a href="https://github.com/aceyzz/Webserv"><img src="utils/webserv.png" alt="webserv" style="width: 80%;">
+<a href="https://github.com/aceyzz/webserv_beta"><img src="utils/webserv.png" alt="webserv" style="width: 80%;">
 <img src="utils/dots.png" alt="grade" style="width: 19%;"></a>
 
 ---
