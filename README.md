@@ -59,7 +59,7 @@
 
 ---
 
-<a href="https://github.com/aceyzz"><img src="utils/19.png" alt="transcendance" style="width: 80%;">
+<a href="https://github.com/aceyzz/ft_transcendence"><img src="utils/19.png" alt="transcendance" style="width: 80%;">
 <img src="utils/dots.png" alt="grade" style="width: 19%;"></a>
 
 ---
