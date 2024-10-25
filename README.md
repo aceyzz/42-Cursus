@@ -60,7 +60,7 @@
 ---
 
 <a href="https://github.com/aceyzz/ft_transcendence"><img src="utils/19.png" alt="transcendance" style="width: 80%;">
-<img src="utils/dots.png" alt="grade" style="width: 19%;"></a>
+<img src="utils/115.png" alt="grade" style="width: 19%;"></a>
 
 ---
 
@@ -78,6 +78,9 @@
 <img src="utils/100.png" alt="grade" style="width: 19%;"></a>
 
 <a href="https://github.com/aceyzz/42-Exam/tree/master/exam_rank_05"><img src="utils/exam05.png" alt="ex04" style="width: 80%;">
+<img src="utils/100.png" alt="grade" style="width: 19%;"></a>
+
+<a href="https://github.com/aceyzz/42-Exam/tree/master/exam_rank_06"><img src="utils/exam06.png" alt="ex04" style="width: 80%;">
 <img src="utils/100.png" alt="grade" style="width: 19%;"></a>
 
 <br>
