@@ -1,4 +1,4 @@
-<img src="utils/classroom.png" alt="logo_common_core" style="width: 100%">
+<img src="utils/banner.png" alt="logo_common_core" style="width: 100%">
 
 ## Projects
 
